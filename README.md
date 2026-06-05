@@ -150,6 +150,7 @@ This project is developed for **educational and learning purposes only**. Predic
 
 * GitHub: https://github.com/manika7105
 * LinkedIn: https://www.linkedin.com/in/manika-goel-92201a286
+* Email: goelmanika07@gmail.com
 
 ---
 
